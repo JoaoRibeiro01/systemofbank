@@ -6,15 +6,14 @@ O Simulador de Sistema Bancário é uma aplicação orientada a objetos que simu
 Classes Principais:
 
 Agência Bancária:
-
 Atributos: Nome, localização, código.
 Métodos: Adicionar conta, remover conta, obter informações da agência.
-Conta Bancária:
 
+Conta Bancária:
 Atributos: Número da conta, saldo, titular.
 Métodos: Depositar, sacar, transferir, consultar saldo.
-Cartão Bancário:
 
+Cartão Bancário:
 Atributos: Número do cartão, conta associada, data de validade, CVV.
 Métodos: Realizar transações, validar transações, verificar saldo.
 Instruções de Uso:
